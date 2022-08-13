@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-alat",
+  "version": "1.0.0",
+  "title": "NodeJS Alat",
+  "description": "Handy libraries for NodeJS.",
+  "keywords": [
+    "node alat",
+    "nodejs alat",
+    "tools",
+    "library",
+    "utils",
+    "utility",
+    "helper"
+  ],
+  "author": "Saša Mikodanić",
+  "license": "AGPL-3.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smikodanic/nodejs-alat.git"
+  },
+  "dependencies": {}
+}
